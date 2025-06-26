@@ -1,0 +1,352 @@
+[
+  {
+    "clip_uid": "8d3f5b12-ac2c-4315-80ed-bb827aa91bd4",
+    "query_idx": 0,
+    "question": "what color is the cups on the table?",
+    "gt_answer": "The cups on the table are turquoise blue with a copper bottom and inner turquoise color.",
+    "model_answer": " The cups on the table are green."
+  },
+  {
+    "clip_uid": "c664f078-9b34-4a58-b949-180ac4bc0980",
+    "query_idx": 4,
+    "question": "what tool did i sharpen the pencils with?",
+    "gt_answer": "You used a utility knife (box cutter) to sharpen the pencils.",
+    "model_answer": " The man used a wood chisel to sharpen the pencils."
+  },
+  {
+    "clip_uid": "c7873f07-7b9c-4794-9a56-fdebeeceee68",
+    "query_idx": 6,
+    "question": "who did i talk to in the parking lot?",
+    "gt_answer": "a woman wearing dark clothes and white sneakers, who is near the white car in the parking lot.",
+    "model_answer": " A woman in traditional attire and a mask is seen talking to a man in a black shirt and cap inside a vehicle, suggesting a conversation in a parking lot setting. The surroundings include a white SUV, a golf cart, and a building with Arabic signage, indicating a Middle Eastern locale. The interaction appears friendly, with gestures and a thumbs-up, amidst a backdrop of palm trees, a stop sign, and a partly cloudy sky, hinting at a warm climate. The scene is captured from a dashboard camera, suggesting a moment of casual interaction or discussion."
+  },
+  {
+    "clip_uid": "8d3f5b12-ac2c-4315-80ed-bb827aa91bd4",
+    "query_idx": 2,
+    "question": "how many laptops were in the room?",
+    "gt_answer": "There are four laptops in the room. Two laptops on the white table (one being used by a person with red hair, and the other is also visible) and one on the metal shelf used by a man in a navy shirt. In addition, the boy sitting on the floor has a fourth laptop on his lap.",
+    "model_answer": " Initially, there were two laptops on a table, one being used by a woman and the other by a man. As time passes, the number of laptops increases to three, with one being used by a woman in a pink top and another by a man in a black shirt. The environment is a modern office space with a focus on technology and collaboration, featuring items like a water bottle, a camera, and a tripod. The presence of a security camera suggests surveillance. The scenes capture moments of casual interaction, work, and movement within the office."
+  },
+  {
+    "clip_uid": "b8654118-84a4-4167-83c9-f268cc15f7b2",
+    "query_idx": 0,
+    "question": "what tool did i use on the machine first?",
+    "gt_answer": "You used a green and black air impact wrench first on the machine.",
+    "model_answer": " Initially, you used a green screwdriver on the machine."
+  },
+  {
+    "clip_uid": "9a13aee2-0dca-49f8-968f-8f53c5a62963",
+    "query_idx": 7,
+    "question": "what vegetable did i cut?",
+    "gt_answer": "You cut Chinese cabbage (napa cabbage).",
+    "model_answer": " The video shows a person in a white lab coat meticulously slicing a cabbage on a red cutting board at a kitchen sink. The kitchen is equipped with various cooking utensils, ingredients like ham, eggs, and seasonings, as well as a wok and a bottle of oil. The person uses a chef's knife and is surrounded by a stainless steel sink, a wok, and a pot, indicating an active cooking environment. The scene is captured from an overhead perspective, emphasizing the chef's technique and the organized state of the workspace. The person's attire includes a logo, suggesting a professional setting."
+  },
+  {
+    "clip_uid": "eaf8d34a-0e20-45d0-a288-569df047461e",
+    "query_idx": 6,
+    "question": "how many drawers did i open?",
+    "gt_answer": "You opened 6 drawers and closed each one after opening them.",
+    "model_answer": " The video shows the person opening various drawers in a well-organized workshop, revealing an assortment of tools and parts including tape, a black and white striped item, a yellow container, and mechanical components like filters and belts. The workshop is equipped with green metal cabinets, a red and black chainsaw, and other gardening equipment, indicating a focus on outdoor maintenance or repair. The person, wearing a gray t-shirt and dark pants, appears to be engaged in a task requiring precision, possibly related to the maintenance of the equipment."
+  },
+  {
+    "clip_uid": "88dcb32f-a537-47de-b3bf-f9149352bbb9",
+    "query_idx": 2,
+    "question": "who did i talk to at the workshop?",
+    "gt_answer": "You talked to a man wearing a navy blue puffer jacket, blue jeans, and dark shoes at the workshop.",
+    "model_answer": " The video shows a person in a blue jacket and jeans interacting with a grey dog in a cluttered workshop filled with tools, motorcycles, and a red wheel lift. The workshop appears to be a space for motorcycle maintenance or repair, with a surveillance camera capturing the scene. The person's face is blurred, indicating anonymity, and the setting includes a desk with a computer, papers, and a phone, suggesting a work-related activity. The presence of a security camera suggests the footage might be part of a surveillance system."
+  },
+  {
+    "clip_uid": "5726971c-b3cc-43ed-8071-f6ee143e417d",
+    "query_idx": 5,
+    "question": "what cloth did i wash?",
+    "gt_answer": "You washed a checkered fabric cloth in a black-and-white plaid pattern which looks like a pair of socks.",
+    "model_answer": " The cloth that was washed is not explicitly mentioned in the given information. However, the video shows a person performing various laundry tasks in a small, efficient bathroom, including washing clothes in an orange basin and using a washing machine. The person is seen holding different items like a white garment, a dark-colored item, and a white plastic bag, suggesting the washing of different clothes. The bathroom is equipped with a white sink, a mirror, a black backpack, and cleaning supplies, indicating a multifunctional space for personal care and laundry."
+  },
+  {
+    "clip_uid": "eb9c6cc3-8192-4c28-96cd-df5ac1812e3e",
+    "query_idx": 0,
+    "question": "in what location did i last see the chair?",
+    "gt_answer": "The chair was last seen in a small, dimly lit room with stone walls, placed close to the doorway leading to a partially exposed brick wall.",
+    "model_answer": " The chair was last seen in the dimly lit, earthen-walled room with a small window and a metal stove, suggesting a space for cooking or heating."
+  },
+  {
+    "clip_uid": "eb9c6cc3-8192-4c28-96cd-df5ac1812e3e",
+    "query_idx": 0,
+    "question": "in what location did i last see the chair?",
+    "gt_answer": "The chair was last seen in a small, dimly lit room with stone walls, placed close to the doorway leading to a partially exposed brick wall.",
+    "model_answer": " The chair was last seen in the dimly lit, earthen-walled room with a small window and a metal stove, suggesting a space for cooking or heating."
+  },
+  {
+    "clip_uid": "93231c7e-1cf4-4a20-b1f8-9cc9428915b2",
+    "query_idx": 1,
+    "question": "who did i talk to in  the house?",
+    "gt_answer": "You talked to a young man wearing a black and white horizontal striped t-shirt and jeans. He has short brown hair and a fair complexion.",
+    "model_answer": " You spoke to a man wearing a striped shirt inside the house."
+  },
+  {
+    "clip_uid": "56ee70c6-558b-4ca6-b8e4-d28be7c98517",
+    "query_idx": 8,
+    "question": "what bottle did i pick?",
+    "gt_answer": "You picked a clear plastic water bottle with a white cap and some ridges on the bottle body.",
+    "model_answer": " The video shows a nighttime scene inside a car where a young child is seated in a car seat, and an adult interacts with the child, possibly adjusting the seatbelt. The interior is dimly lit, with a dashboard and personal items visible. At one point, a hand holds a water bottle, suggesting a moment of care or preparation. The child's face is blurred, indicating movement. An older man appears, reaching into the backseat, and a woman's face is partially visible, suggesting she is the mother. The video ends with a hand holding a small object, possibly a bottle cap, in a dark setting."
+  },
+  {
+    "clip_uid": "2276090d-3aab-4a4f-afbe-dcc083604160",
+    "query_idx": 6,
+    "question": "what did i add to the food?",
+    "gt_answer": "You added kimchi to the rice mixture in the frying pan.",
+    "model_answer": " The person in the video added gochujang to the food."
+  },
+  {
+    "clip_uid": "1138ced6-d580-4013-96bb-1e5c3fea62d7",
+    "query_idx": 4,
+    "question": "how many cans were in the fridge?",
+    "gt_answer": "There are 11 cans visible in the fridge door storage.",
+    "model_answer": " The video shows a woman in a black t-shirt and glasses reaching into a mini refrigerator to remove a can of Red Bull. The fridge is stocked with various items including a coffee maker, cups, a bowl of fruit, and snacks. The setting appears to be a casual workspace or break room, with natural light coming from a window that overlooks an outdoor area with trees and a building. The woman is seen in different frames interacting with the fridge, suggesting a focus on health and fitness. The environment is clean and organized, with a yellow exercise ball and a mirror indicating a multifunctional space."
+  },
+  {
+    "clip_uid": "2ed232bc-dc21-42d6-88be-d6ebe92f5b2a",
+    "query_idx": 2,
+    "question": "who did i interact with when i was walking out of the clothing store.?",
+    "gt_answer": "You interacted with a glass door with a handle while exiting the clothing store. The door was framed in metal and had a keypad entry system next to it.",
+    "model_answer": " As you walk out of the clothing store, you interact with a man dressed as a character from 'The Walking Dead'. He stands by the glass doors, looking towards the entrance where a woman in a black top and green necklace is seen. The store's interior is modern, with a rack of clothes and a sign indicating a sale. The man, wearing a black hoodie and mask, appears to be a staff member or security, while the woman seems to be a customer. The scene is brightly lit, with a red circular sign on the glass door adding color to the setting."
+  },
+  {
+    "clip_uid": "9ab5fd9f-77e4-4438-a546-a4b6ed889f1a",
+    "query_idx": 1,
+    "question": "what did i put in the dough?",
+    "gt_answer": "You used an egg wash, applied with a pastry brush, to coat the dough.",
+    "model_answer": " The person in the video meticulously adds an egg to the dough, which is placed on a tray. The dough is shaped into small, round buns, and the process is captured from various angles, including an overhead view. The baker, wearing blue gloves, uses a wooden brush and a bowl of egg mixture to prepare the buns. The workspace is cluttered with baking tools and ingredients, indicating an active baking environment. The focus is on the careful preparation of the dough, with the baker's technique highlighted by the consistent addition of eggs."
+  },
+  {
+    "clip_uid": "085f7a8b-e1e5-4e7b-a83d-5ea650edd9fe",
+    "query_idx": 5,
+    "question": "what did i put on the dog?",
+    "gt_answer": "You put a dog halter on the dog. The halter typically goes over the dog's snout and behind its ears, and is used to control the dog's head and reduce pulling on the leash during walks.",
+    "model_answer": " The person in the video put a blue collar on the dog's neck."
+  },
+  {
+    "clip_uid": "1c433d54-a8fa-48ec-8fdf-1f8207e7ab38",
+    "query_idx": 1,
+    "question": "when did i interact with the lady?",
+    "gt_answer": "You interacted with the woman in the garage, showing her a rough material while she worked on a project with yellow gloves, surrounded by metal rods and tools.",
+    "model_answer": " You interacted with the lady at the 2-second mark."
+  },
+  {
+    "clip_uid": "eaf8d34a-0e20-45d0-a288-569df047461e",
+    "query_idx": 1,
+    "question": "where was the green electric drill?",
+    "gt_answer": "The green electric drill was on the floor next to the yellow machine and often used in your lap while working. It was mainly placed to your right side, near some wrenches and tools.",
+    "model_answer": " The green electric drill was lying on the floor next to the man, who was focused on repairing the engine."
+  },
+  {
+    "clip_uid": "e9becd62-c5ea-4104-9d81-781a78bb7dbe",
+    "query_idx": 1,
+    "question": "how many piece of tomato did i cut?",
+    "gt_answer": "You cut three slices of tomato and left the rest of the tomato uncut.",
+    "model_answer": " The person in the video cuts a tomato into slices on a yellow cutting board."
+  },
+  {
+    "clip_uid": "2237fc47-e8c9-4751-9b02-6189913b4b4d",
+    "query_idx": 7,
+    "question": "when did i see towel before?",
+    "gt_answer": "You saw the towel multiple times throughout your cleaning session. First, when you were carrying the vacuum down the stairs, hanging along the stair railing on the left side. Later, the towel was again seen while you continued vacuuming in the same area near the stairs. The towel is orange with yellow and red stripes.",
+    "model_answer": " You saw the towel before when it was on the bed."
+  },
+  {
+    "clip_uid": "e5e98fec-82b8-4401-9a7a-42eae3f51e55",
+    "query_idx": 3,
+    "question": "what did i pour in the sink?",
+    "gt_answer": "You were pouring water from two plastic water bottles into the sink.",
+    "model_answer": " You poured water from a blue plastic bottle into the sink."
+  },
+  {
+    "clip_uid": "ab094ea2-9251-4f10-945b-c2ab00c5282e",
+    "query_idx": 0,
+    "question": "where did i put my phone?",
+    "gt_answer": "You placed your phone on the kitchen counter near the white plate and the roll of paper towels.",
+    "model_answer": " It seems like you might have put your phone on the table."
+  },
+  {
+    "clip_uid": "a185abe1-ae2e-4ab4-aa5c-d2f45abfd7c9",
+    "query_idx": 1,
+    "question": "did i clean the container?",
+    "gt_answer": "Yes, you did clean the container using a bright pink cloth.",
+    "model_answer": " The video shows a man in a cluttered workshop filled with tools and equipment, including lawn mowers and a red gas can. He is seen holding a clear plastic container with a pink cloth, indicating he is cleaning it. The workshop is well-lit, with natural light streaming in from an open garage door. The man, wearing a black t-shirt and jeans, is focused on his task, surrounded by various items like a red stool, a blue barrel, and a yellow lawn mower. The scene suggests a detailed maintenance or repair process."
+  },
+  {
+    "clip_uid": "9f5d3796-baf8-4f5c-9fbf-a754f0ffc2ec",
+    "query_idx": 5,
+    "question": "where was the candle jar before i operated my phone?",
+    "gt_answer": "The candle jar was placed next to the tv on the table next to the window before you began using your phone.",
+    "model_answer": " The candle jar was on the table before you operated your phone."
+  },
+  {
+    "clip_uid": "7bddd848-b6d5-4276-9b9b-c54fa9b25c67",
+    "query_idx": 6,
+    "question": "who did i talk to in the living room?",
+    "gt_answer": "You talked to a young person wearing a NASA t-shirt, who was playing a card game with you at the living room table.",
+    "model_answer": " The person you spoke to in the living room was a man wearing a NASA t-shirt."
+  },
+  {
+    "clip_uid": "a35ac9e4-bb20-460e-9c9d-67806ab9d13f",
+    "query_idx": 0,
+    "question": "what price did i pay in total?",
+    "gt_answer": "The total amount you paid is $21.93.",
+    "model_answer": " The total price paid is $23.97."
+  },
+  {
+    "clip_uid": "085f7a8b-e1e5-4e7b-a83d-5ea650edd9fe",
+    "query_idx": 0,
+    "question": "where was the dog before i talked to the woman?",
+    "gt_answer": "The dog was standing on the mat in front of the main entrance door in the hallway area before you talked to the woman.",
+    "model_answer": " The dog was in the living room before the woman began talking."
+  },
+  {
+    "clip_uid": "2237fc47-e8c9-4751-9b02-6189913b4b4d",
+    "query_idx": 4,
+    "question": "when did i saw person?",
+    "gt_answer": "You were in the process of removing the vacuum's brush head, attaching the longer vacuum pipe, and likely preparing to begin cleaning, when you saw that person.",
+    "model_answer": " A person in a red patterned dress appears first on a beige carpet, holding a black vacuum cleaner. They then sit on the floor, holding a black object, and later, a black vacuum cleaner, with a white door frame in the background. The person is seen seated, pointing at the vacuum cleaner's control panel, and then operating it with their right hand. They stand, reaching towards the vacuum cleaner, and finally, sit with their back against the wall, arms outstretched. The scene ends with the person partially covered by the vacuum cleaner."
+  },
+  {
+    "clip_uid": "3672773c-6ff8-47c2-9ef9-bb00c65814ef",
+    "query_idx": 6,
+    "question": "did i take the pastry out of the oven?",
+    "gt_answer": "Yes, you took the pastry out of the oven.",
+    "model_answer": " The pastry has been taken out of the oven."
+  },
+  {
+    "clip_uid": "59c01c97-9312-47f8-b911-dd789978714b",
+    "query_idx": 7,
+    "question": "what did l pour in the dough mixer?",
+    "gt_answer": "You poured water from a pitcher into the dough mixer.",
+    "model_answer": " The person in the video poured water into a stainless steel dough mixer, which was on a tiled floor. They also poured a yellow liquid, possibly oil or butter, into the mixer, which has a bowl and attachments. The person, wearing blue gloves, is seen washing dishes and pouring liquids into the mixer, which is surrounded by various kitchen items like a green bottle of dish soap, a yellow sponge, and a white container. The kitchen is well-organized, with a focus on the task of mixing ingredients."
+  },
+  {
+    "clip_uid": "1731de62-b1b9-4b84-bd55-412cd67e9b3c",
+    "query_idx": 4,
+    "question": "what did i pour in the mug?",
+    "gt_answer": "You poured water from a sport water bottle into the mug.",
+    "model_answer": " The person poured water into the mug."
+  },
+  {
+    "clip_uid": "6dd27c16-8717-4a64-8921-a6ebc7cdfb3d",
+    "query_idx": 4,
+    "question": "what color is the keg i picked from the floor?",
+    "gt_answer": "The keg you picked up from the floor is red.",
+    "model_answer": " The keg that the man picked up from the floor is red."
+  },
+  {
+    "clip_uid": "fdb6c695-0a20-4c3d-b81c-80b0f9ec5187",
+    "query_idx": 2,
+    "question": "what did i put in the plate?",
+    "gt_answer": "You put some chunks of canned food onto the plate, likely from a can of wet pet food.",
+    "model_answer": " The person in the video scoops food into a bowl at a kitchen counter, with a white container and a sink with a green dish rack nearby. The countertop is cluttered with various items, including a bottle of detergent and a glass jar. The person then eats from the bowl, with a white plastic container and a glass of water on the counter. The scene includes a window with a grid pattern, and the person is seen eating from a jar, with a white container and a green utensil holder on the countertop. Finally, the person eats from a bowl with a spoon, with a white plastic container and a green dish rack with utensils in the background."
+  },
+  {
+    "clip_uid": "3672773c-6ff8-47c2-9ef9-bb00c65814ef",
+    "query_idx": 0,
+    "question": "how many scoops of flour did i put  in the bucket?",
+    "gt_answer": "You put in the bucket six scoops of flour from the lower bag on left, and six scoops from the higher bag on the right.",
+    "model_answer": " The person in blue gloves meticulously pours flour from various bags into a white bucket, with the scene suggesting a focus on precision and cleanliness in a domestic or small commercial kitchen setting. The activity involves transferring flour from different bags, including 'SILICA DIOXIDE', 'SILVER BAKING POWDER', 'SODA BICARBONATE', 'CORN STARCH', 'SILVER AMMONIUM', 'SILVER BAKING SODA', 'SILVER NITRATE', 'SILVER CHLORIDE', 'SILVER CRYSTAL', 'SILVER POWDER', 'SILVER CEMENT', and 'SILVER CHLORIDE', into the bucket. The process is methodical, with the person using a white plastic scoop and a blue-gloved hand for the task, indicating a careful and precise approach to baking preparation."
+  },
+  {
+    "clip_uid": "c0a634a9-3dbe-44f8-9a04-7718d2a2762e",
+    "query_idx": 0,
+    "question": "what did i tie around the table.?",
+    "gt_answer": "You tied a black cord (likely a cable or wire) around the table.",
+    "model_answer": " The person in the video tied a red and white striped cloth around the table, which is a silver table saw with a red and black blade guard. They are wearing a dark blue shirt with an orange sleeve and are surrounded by wooden planks, a green leaf blower, and various tools, indicating an active woodworking environment. The table saw is frequently used, as suggested by the dust and debris on its surface. The person's actions are captured from different angles, including an overhead view, emphasizing the detailed work and the cluttered workspace."
+  },
+  {
+    "clip_uid": "194b473e-025a-4494-addc-1896341d0164",
+    "query_idx": 0,
+    "question": "where was the phone before i picked it?",
+    "gt_answer": "Before you picked it up, the phone was placed on the bed, near a red and orange round bag labeled \"SUNNYLIFE.\"",
+    "model_answer": " The phone was on the bed before you picked it up."
+  },
+  {
+    "clip_uid": "bbd99850-bcb0-460e-8a40-056f1e618f88",
+    "query_idx": 0,
+    "question": "how many slices of bread did i spread with butter.?",
+    "gt_answer": "You spread 12 slices of bread with butter.",
+    "model_answer": " The video shows a person preparing a meal in a small, cluttered kitchen, spreading butter on various slices of bread. The kitchen is equipped with a stove, pots, and utensils, indicating an active cooking process. The countertops are covered with items like a kettle, toaster, and bottles, suggesting a multifunctional space. A cat is visible, adding a domestic touch. The scene is captured from an overhead perspective, emphasizing the efficiency and warmth of home life. Despite the video caption mentioning a sandwich, the detailed descriptions focus on the bread and butter preparation."
+  },
+  {
+    "clip_uid": "6525fb54-a95a-42cf-96b2-5767860e352d",
+    "query_idx": 3,
+    "question": "what instrument did i play?",
+    "gt_answer": "You played an electronic keyboard. It is a Casio keyboard model with various control buttons and a stand for sheet music.",
+    "model_answer": " The instrument played in the video is a keyboard synthesizer."
+  },
+  {
+    "clip_uid": "a538b7bc-5ec2-496a-8bbe-9d6d38381a39",
+    "query_idx": 1,
+    "question": "where did i throw the bottle i drank from?",
+    "gt_answer": "You threw the bottle you drank from into the bin full of miscellaneous items, including cardboard boxes and other debris to your right.",
+    "model_answer": " The bottle you threw was thrown into the trash can."
+  },
+  {
+    "clip_uid": "4c4d7210-b39d-4659-b433-befd181482c2",
+    "query_idx": 0,
+    "question": "what did i pour in bottle?",
+    "gt_answer": "You filled the bottle with water using the faucet.",
+    "model_answer": " The person in the video poured water into a clear plastic bottle."
+  },
+  {
+    "clip_uid": "2237fc47-e8c9-4751-9b02-6189913b4b4d",
+    "query_idx": 3,
+    "question": "when did i see chart before?",
+    "gt_answer": "You saw the chart before going down stairs while holding two glasses in your left hand and one white mug in your right hand, at the stairway, as seen on the wall to the right.",
+    "model_answer": " You saw the chart before at the 2-second mark."
+  },
+  {
+    "clip_uid": "ca1fd4b7-64b9-4529-820e-d4a8591b8e49",
+    "query_idx": 4,
+    "question": "what color-cloth did i rinse in the sink?",
+    "gt_answer": "You rinsed a green cloth in the sink.",
+    "model_answer": " The color-cloth that was rinsed in the sink is green."
+  },
+  {
+    "clip_uid": "badca5ee-61fc-4d80-9991-7ce29ddee7be",
+    "query_idx": 1,
+    "question": "who did i talk to at the door entrance?",
+    "gt_answer": "The person you spoke to at the door entrance is a man wearing a teal blue zip-up jacket and dark sunglasses. He has light skin and short, light brown hair styled upwards. He\u2019s smiling and seems to be engaged in a friendly conversation with you.",
+    "model_answer": " A woman with long blonde hair, wearing a dark blue hoodie, is seen talking to someone at the door entrance. Shortly after, a man in a teal shirt appears, smiling and engaging in conversation with someone off-camera. The scene shifts to a modern office corridor where the same man, now wearing glasses and a teal jacket, continues his friendly interaction. The setting changes to a more abstract and dynamic environment, featuring a digital landscape with a mountainous terrain in pink and green, suggesting a blend of technology and artistry."
+  },
+  {
+    "clip_uid": "f748feb9-9a15-4f2b-9b65-186f90107c7c",
+    "query_idx": 13,
+    "question": "how many pieces of dough did i cut?",
+    "gt_answer": "You cut 40 pieces of dough.",
+    "model_answer": " The person in the video cut 100 pieces of dough."
+  },
+  {
+    "clip_uid": "9e225f1f-f50a-4236-8c32-934613b4b8d8",
+    "query_idx": 5,
+    "question": "how many pastries did i put a hole in?",
+    "gt_answer": "You put a hole in 6 pasteries.",
+    "model_answer": " The baker shaped and placed doughnuts on a conveyor belt, with a focus on precision and hygiene. The process involves shaping and placing doughnuts, with a total of six pastries being prepared. The baker's hands, clad in blue gloves, are shown meticulously working with the dough, indicating a professional setting. The industrial environment, including a metal conveyor belt and a yellow bowl, suggests a large-scale bakery operation. The baker's attention to detail is evident as they shape and place the doughnuts, with a sense of urgency in the production process."
+  },
+  {
+    "clip_uid": "47c24350-cc10-4ec6-8407-24f778981a82",
+    "query_idx": 0,
+    "question": "what tool did i use to tighten the car handle?",
+    "gt_answer": "The tool you used is a screwdriver with a long yellow shaft, a metal tip, and green handle.",
+    "model_answer": " The person used a yellow and green screwdriver to tighten the car handle."
+  },
+  {
+    "clip_uid": "ed0a0e94-c79b-462d-a64b-238f26fd6fc6",
+    "query_idx": 6,
+    "question": "who did i talk to at the atm place ?",
+    "gt_answer": "You interacted with a woman at the ATM area. She was wearing an orange shirt with a green lanyard and holding some cash and cards. She also had sunglasses on and appeared to be smiling at one point.",
+    "model_answer": " A woman in an orange shirt and dark sunglasses is seen at an ATM, engaging in a transaction and holding a smartphone. She is wearing a green lanyard, indicating her role as an employee. The scene is set in a brightly lit store with a promotional sign for Frito-Lay snacks. As time passes, she continues her transaction, at one point holding a card and a receipt, and later, a white card and a black purse. The environment suggests a commercial setting, possibly a grocery store, with shelves stocked with various items."
+  },
+  {
+    "clip_uid": "b1bd830a-a738-4ebe-9e88-c348def0de90",
+    "query_idx": 4,
+    "question": "in what location did i see the foam?",
+    "gt_answer": "You saw the foam in the small sink located in what seems to be a confined and somewhat cluttered utility or maintenance room. The foam is visible in the sink as you pour some liquid from the blue container.",
+    "model_answer": " The foam was first seen on the floor in a narrow, cluttered space with a wooden door and a blue container. Then, it appears on the ground in a dimly lit room with a wooden table and a blue bucket. Next, the foam is on the floor in a bathroom with a white sink, cleaning supplies, and a mirror reflecting another person. Finally, the foam is on the floor in a small, utilitarian bathroom with a white sink, cleaning supplies, and a mirror showing a person in a red jacket."
+  }
+]

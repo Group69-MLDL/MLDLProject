@@ -1,0 +1,352 @@
+[
+  {
+    "clip_uid": "8d3f5b12-ac2c-4315-80ed-bb827aa91bd4",
+    "query_idx": 0,
+    "question": "what color is the cups on the table?",
+    "gt_answer": "The cups on the table are turquoise blue with a copper bottom and inner turquoise color.",
+    "model_answer": "The cups on the table are green."
+  },
+  {
+    "clip_uid": "c664f078-9b34-4a58-b949-180ac4bc0980",
+    "query_idx": 4,
+    "question": "what tool did i sharpen the pencils with?",
+    "gt_answer": "You used a utility knife (box cutter) to sharpen the pencils.",
+    "model_answer": "You sharpened the pencils with a green utility knife."
+  },
+  {
+    "clip_uid": "c7873f07-7b9c-4794-9a56-fdebeeceee68",
+    "query_idx": 6,
+    "question": "who did i talk to in the parking lot?",
+    "gt_answer": "a woman wearing dark clothes and white sneakers, who is near the white car in the parking lot.",
+    "model_answer": "You spoke to a woman wearing a black dress in the parking lot."
+  },
+  {
+    "clip_uid": "8d3f5b12-ac2c-4315-80ed-bb827aa91bd4",
+    "query_idx": 2,
+    "question": "how many laptops were in the room?",
+    "gt_answer": "There are four laptops in the room. Two laptops on the white table (one being used by a person with red hair, and the other is also visible) and one on the metal shelf used by a man in a navy shirt. In addition, the boy sitting on the floor has a fourth laptop on his lap.",
+    "model_answer": "There were two laptops in the room."
+  },
+  {
+    "clip_uid": "b8654118-84a4-4167-83c9-f268cc15f7b2",
+    "query_idx": 0,
+    "question": "what tool did i use on the machine first?",
+    "gt_answer": "You used a green and black air impact wrench first on the machine.",
+    "model_answer": "You used a green power drill on the machine first."
+  },
+  {
+    "clip_uid": "9a13aee2-0dca-49f8-968f-8f53c5a62963",
+    "query_idx": 7,
+    "question": "what vegetable did i cut?",
+    "gt_answer": "You cut Chinese cabbage (napa cabbage).",
+    "model_answer": "You cut a cabbage."
+  },
+  {
+    "clip_uid": "eaf8d34a-0e20-45d0-a288-569df047461e",
+    "query_idx": 6,
+    "question": "how many drawers did i open?",
+    "gt_answer": "You opened 6 drawers and closed each one after opening them.",
+    "model_answer": "You opened a total of 7 drawers."
+  },
+  {
+    "clip_uid": "88dcb32f-a537-47de-b3bf-f9149352bbb9",
+    "query_idx": 2,
+    "question": "who did i talk to at the workshop?",
+    "gt_answer": "You talked to a man wearing a navy blue puffer jacket, blue jeans, and dark shoes at the workshop.",
+    "model_answer": "You spoke to a man wearing a black jacket and blue jeans."
+  },
+  {
+    "clip_uid": "5726971c-b3cc-43ed-8071-f6ee143e417d",
+    "query_idx": 5,
+    "question": "what cloth did i wash?",
+    "gt_answer": "You washed a checkered fabric cloth in a black-and-white plaid pattern which looks like a pair of socks.",
+    "model_answer": "You washed a pair of gloves."
+  },
+  {
+    "clip_uid": "eb9c6cc3-8192-4c28-96cd-df5ac1812e3e",
+    "query_idx": 0,
+    "question": "in what location did i last see the chair?",
+    "gt_answer": "The chair was last seen in a small, dimly lit room with stone walls, placed close to the doorway leading to a partially exposed brick wall.",
+    "model_answer": "You last saw the chair in the room."
+  },
+  {
+    "clip_uid": "eb9c6cc3-8192-4c28-96cd-df5ac1812e3e",
+    "query_idx": 0,
+    "question": "in what location did i last see the chair?",
+    "gt_answer": "The chair was last seen in a small, dimly lit room with stone walls, placed close to the doorway leading to a partially exposed brick wall.",
+    "model_answer": "You last saw the chair in the room."
+  },
+  {
+    "clip_uid": "93231c7e-1cf4-4a20-b1f8-9cc9428915b2",
+    "query_idx": 1,
+    "question": "who did i talk to in  the house?",
+    "gt_answer": "You talked to a young man wearing a black and white horizontal striped t-shirt and jeans. He has short brown hair and a fair complexion.",
+    "model_answer": "You spoke to a man wearing a striped shirt in the house."
+  },
+  {
+    "clip_uid": "56ee70c6-558b-4ca6-b8e4-d28be7c98517",
+    "query_idx": 8,
+    "question": "what bottle did i pick?",
+    "gt_answer": "You picked a clear plastic water bottle with a white cap and some ridges on the bottle body.",
+    "model_answer": "You picked a bottle of water."
+  },
+  {
+    "clip_uid": "2276090d-3aab-4a4f-afbe-dcc083604160",
+    "query_idx": 6,
+    "question": "what did i add to the food?",
+    "gt_answer": "You added kimchi to the rice mixture in the frying pan.",
+    "model_answer": "You added a red sauce to the food."
+  },
+  {
+    "clip_uid": "1138ced6-d580-4013-96bb-1e5c3fea62d7",
+    "query_idx": 4,
+    "question": "how many cans were in the fridge?",
+    "gt_answer": "There are 11 cans visible in the fridge door storage.",
+    "model_answer": "There were two cans in the fridge."
+  },
+  {
+    "clip_uid": "2ed232bc-dc21-42d6-88be-d6ebe92f5b2a",
+    "query_idx": 2,
+    "question": "who did i interact with when i was walking out of the clothing store.?",
+    "gt_answer": "You interacted with a glass door with a handle while exiting the clothing store. The door was framed in metal and had a keypad entry system next to it.",
+    "model_answer": "You interacted with a person wearing a black jacket and a person wearing a black hoodie."
+  },
+  {
+    "clip_uid": "9ab5fd9f-77e4-4438-a546-a4b6ed889f1a",
+    "query_idx": 1,
+    "question": "what did i put in the dough?",
+    "gt_answer": "You used an egg wash, applied with a pastry brush, to coat the dough.",
+    "model_answer": "You put the dough on a baking sheet."
+  },
+  {
+    "clip_uid": "085f7a8b-e1e5-4e7b-a83d-5ea650edd9fe",
+    "query_idx": 5,
+    "question": "what did i put on the dog?",
+    "gt_answer": "You put a dog halter on the dog. The halter typically goes over the dog's snout and behind its ears, and is used to control the dog's head and reduce pulling on the leash during walks.",
+    "model_answer": "You put a leash on the dog."
+  },
+  {
+    "clip_uid": "1c433d54-a8fa-48ec-8fdf-1f8207e7ab38",
+    "query_idx": 1,
+    "question": "when did i interact with the lady?",
+    "gt_answer": "You interacted with the woman in the garage, showing her a rough material while she worked on a project with yellow gloves, surrounded by metal rods and tools.",
+    "model_answer": "You interacted with the lady at 22:19."
+  },
+  {
+    "clip_uid": "eaf8d34a-0e20-45d0-a288-569df047461e",
+    "query_idx": 1,
+    "question": "where was the green electric drill?",
+    "gt_answer": "The green electric drill was on the floor next to the yellow machine and often used in your lap while working. It was mainly placed to your right side, near some wrenches and tools.",
+    "model_answer": "The green electric drill was on the ground."
+  },
+  {
+    "clip_uid": "e9becd62-c5ea-4104-9d81-781a78bb7dbe",
+    "query_idx": 1,
+    "question": "how many piece of tomato did i cut?",
+    "gt_answer": "You cut three slices of tomato and left the rest of the tomato uncut.",
+    "model_answer": "You cut two pieces of tomato."
+  },
+  {
+    "clip_uid": "2237fc47-e8c9-4751-9b02-6189913b4b4d",
+    "query_idx": 7,
+    "question": "when did i see towel before?",
+    "gt_answer": "You saw the towel multiple times throughout your cleaning session. First, when you were carrying the vacuum down the stairs, hanging along the stair railing on the left side. Later, the towel was again seen while you continued vacuuming in the same area near the stairs. The towel is orange with yellow and red stripes.",
+    "model_answer": "You saw the towel before when it was placed on the stairs."
+  },
+  {
+    "clip_uid": "e5e98fec-82b8-4401-9a7a-42eae3f51e55",
+    "query_idx": 3,
+    "question": "what did i pour in the sink?",
+    "gt_answer": "You were pouring water from two plastic water bottles into the sink.",
+    "model_answer": "You poured water in the sink."
+  },
+  {
+    "clip_uid": "ab094ea2-9251-4f10-945b-c2ab00c5282e",
+    "query_idx": 0,
+    "question": "where did i put my phone?",
+    "gt_answer": "You placed your phone on the kitchen counter near the white plate and the roll of paper towels.",
+    "model_answer": "You are currently holding your phone."
+  },
+  {
+    "clip_uid": "a185abe1-ae2e-4ab4-aa5c-d2f45abfd7c9",
+    "query_idx": 1,
+    "question": "did i clean the container?",
+    "gt_answer": "Yes, you did clean the container using a bright pink cloth.",
+    "model_answer": "yes, you cleaned the container."
+  },
+  {
+    "clip_uid": "9f5d3796-baf8-4f5c-9fbf-a754f0ffc2ec",
+    "query_idx": 5,
+    "question": "where was the candle jar before i operated my phone?",
+    "gt_answer": "The candle jar was placed next to the tv on the table next to the window before you began using your phone.",
+    "model_answer": "on the table"
+  },
+  {
+    "clip_uid": "7bddd848-b6d5-4276-9b9b-c54fa9b25c67",
+    "query_idx": 6,
+    "question": "who did i talk to in the living room?",
+    "gt_answer": "You talked to a young person wearing a NASA t-shirt, who was playing a card game with you at the living room table.",
+    "model_answer": "you talked to a boy wearing a gray t-shirt in the living room."
+  },
+  {
+    "clip_uid": "a35ac9e4-bb20-460e-9c9d-67806ab9d13f",
+    "query_idx": 0,
+    "question": "what price did i pay in total?",
+    "gt_answer": "The total amount you paid is $21.93.",
+    "model_answer": "You paid a total of $21.93."
+  },
+  {
+    "clip_uid": "085f7a8b-e1e5-4e7b-a83d-5ea650edd9fe",
+    "query_idx": 0,
+    "question": "where was the dog before i talked to the woman?",
+    "gt_answer": "The dog was standing on the mat in front of the main entrance door in the hallway area before you talked to the woman.",
+    "model_answer": "the dog was in the closet before you talked to the woman."
+  },
+  {
+    "clip_uid": "2237fc47-e8c9-4751-9b02-6189913b4b4d",
+    "query_idx": 4,
+    "question": "when did i saw person?",
+    "gt_answer": "You were in the process of removing the vacuum's brush head, attaching the longer vacuum pipe, and likely preparing to begin cleaning, when you saw that person.",
+    "model_answer": "I saw the person at the beginning of the video, when they were vacuuming the carpet."
+  },
+  {
+    "clip_uid": "3672773c-6ff8-47c2-9ef9-bb00c65814ef",
+    "query_idx": 6,
+    "question": "did i take the pastry out of the oven?",
+    "gt_answer": "Yes, you took the pastry out of the oven.",
+    "model_answer": "yes, you took the pastry out of the oven."
+  },
+  {
+    "clip_uid": "59c01c97-9312-47f8-b911-dd789978714b",
+    "query_idx": 7,
+    "question": "what did l pour in the dough mixer?",
+    "gt_answer": "You poured water from a pitcher into the dough mixer.",
+    "model_answer": "l poured water in the dough mixer."
+  },
+  {
+    "clip_uid": "1731de62-b1b9-4b84-bd55-412cd67e9b3c",
+    "query_idx": 4,
+    "question": "what did i pour in the mug?",
+    "gt_answer": "You poured water from a sport water bottle into the mug.",
+    "model_answer": "You poured water from the kettle into the mug."
+  },
+  {
+    "clip_uid": "6dd27c16-8717-4a64-8921-a6ebc7cdfb3d",
+    "query_idx": 4,
+    "question": "what color is the keg i picked from the floor?",
+    "gt_answer": "The keg you picked up from the floor is red.",
+    "model_answer": "red"
+  },
+  {
+    "clip_uid": "fdb6c695-0a20-4c3d-b81c-80b0f9ec5187",
+    "query_idx": 2,
+    "question": "what did i put in the plate?",
+    "gt_answer": "You put some chunks of canned food onto the plate, likely from a can of wet pet food.",
+    "model_answer": "You put the food from the bowl onto the plate."
+  },
+  {
+    "clip_uid": "3672773c-6ff8-47c2-9ef9-bb00c65814ef",
+    "query_idx": 0,
+    "question": "how many scoops of flour did i put  in the bucket?",
+    "gt_answer": "You put in the bucket six scoops of flour from the lower bag on left, and six scoops from the higher bag on the right.",
+    "model_answer": "You put three scoops of flour in the bucket."
+  },
+  {
+    "clip_uid": "c0a634a9-3dbe-44f8-9a04-7718d2a2762e",
+    "query_idx": 0,
+    "question": "what did i tie around the table.?",
+    "gt_answer": "You tied a black cord (likely a cable or wire) around the table.",
+    "model_answer": "You tied a black cord around the table."
+  },
+  {
+    "clip_uid": "194b473e-025a-4494-addc-1896341d0164",
+    "query_idx": 0,
+    "question": "where was the phone before i picked it?",
+    "gt_answer": "Before you picked it up, the phone was placed on the bed, near a red and orange round bag labeled \"SUNNYLIFE.\"",
+    "model_answer": "The phone was on the bed before you picked it up."
+  },
+  {
+    "clip_uid": "bbd99850-bcb0-460e-8a40-056f1e618f88",
+    "query_idx": 0,
+    "question": "how many slices of bread did i spread with butter.?",
+    "gt_answer": "You spread 12 slices of bread with butter.",
+    "model_answer": "2"
+  },
+  {
+    "clip_uid": "6525fb54-a95a-42cf-96b2-5767860e352d",
+    "query_idx": 3,
+    "question": "what instrument did i play?",
+    "gt_answer": "You played an electronic keyboard. It is a Casio keyboard model with various control buttons and a stand for sheet music.",
+    "model_answer": "Based on the video, it appears that you played the keyboard."
+  },
+  {
+    "clip_uid": "a538b7bc-5ec2-496a-8bbe-9d6d38381a39",
+    "query_idx": 1,
+    "question": "where did i throw the bottle i drank from?",
+    "gt_answer": "You threw the bottle you drank from into the bin full of miscellaneous items, including cardboard boxes and other debris to your right.",
+    "model_answer": "You threw the bottle you drank from into the trash can inside the house."
+  },
+  {
+    "clip_uid": "4c4d7210-b39d-4659-b433-befd181482c2",
+    "query_idx": 0,
+    "question": "what did i pour in bottle?",
+    "gt_answer": "You filled the bottle with water using the faucet.",
+    "model_answer": "You poured water into the bottle."
+  },
+  {
+    "clip_uid": "2237fc47-e8c9-4751-9b02-6189913b4b4d",
+    "query_idx": 3,
+    "question": "when did i see chart before?",
+    "gt_answer": "You saw the chart before going down stairs while holding two glasses in your left hand and one white mug in your right hand, at the stairway, as seen on the wall to the right.",
+    "model_answer": "You saw the chart on the wall in the kitchen."
+  },
+  {
+    "clip_uid": "ca1fd4b7-64b9-4529-820e-d4a8591b8e49",
+    "query_idx": 4,
+    "question": "what color-cloth did i rinse in the sink?",
+    "gt_answer": "You rinsed a green cloth in the sink.",
+    "model_answer": "green"
+  },
+  {
+    "clip_uid": "badca5ee-61fc-4d80-9991-7ce29ddee7be",
+    "query_idx": 1,
+    "question": "who did i talk to at the door entrance?",
+    "gt_answer": "The person you spoke to at the door entrance is a man wearing a teal blue zip-up jacket and dark sunglasses. He has light skin and short, light brown hair styled upwards. He\u2019s smiling and seems to be engaged in a friendly conversation with you.",
+    "model_answer": "You spoke to a man wearing a blue shirt and glasses at the door entrance."
+  },
+  {
+    "clip_uid": "f748feb9-9a15-4f2b-9b65-186f90107c7c",
+    "query_idx": 13,
+    "question": "how many pieces of dough did i cut?",
+    "gt_answer": "You cut 40 pieces of dough.",
+    "model_answer": "You cut 12 pieces of dough."
+  },
+  {
+    "clip_uid": "9e225f1f-f50a-4236-8c32-934613b4b8d8",
+    "query_idx": 5,
+    "question": "how many pastries did i put a hole in?",
+    "gt_answer": "You put a hole in 6 pasteries.",
+    "model_answer": "You made a hole in four pastries."
+  },
+  {
+    "clip_uid": "47c24350-cc10-4ec6-8407-24f778981a82",
+    "query_idx": 0,
+    "question": "what tool did i use to tighten the car handle?",
+    "gt_answer": "The tool you used is a screwdriver with a long yellow shaft, a metal tip, and green handle.",
+    "model_answer": "You used a screwdriver to tighten the car handle."
+  },
+  {
+    "clip_uid": "ed0a0e94-c79b-462d-a64b-238f26fd6fc6",
+    "query_idx": 6,
+    "question": "who did i talk to at the atm place ?",
+    "gt_answer": "You interacted with a woman at the ATM area. She was wearing an orange shirt with a green lanyard and holding some cash and cards. She also had sunglasses on and appeared to be smiling at one point.",
+    "model_answer": "You spoke to a woman wearing an orange shirt and a green lanyard at the ATM place."
+  },
+  {
+    "clip_uid": "b1bd830a-a738-4ebe-9e88-c348def0de90",
+    "query_idx": 4,
+    "question": "in what location did i see the foam?",
+    "gt_answer": "You saw the foam in the small sink located in what seems to be a confined and somewhat cluttered utility or maintenance room. The foam is visible in the sink as you pour some liquid from the blue container.",
+    "model_answer": "You saw the foam in the sink."
+  }
+]
