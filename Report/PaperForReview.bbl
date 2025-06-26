@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{5_SlowFast_Networks_for_Video_Recognition}
+Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He.
+\newblock Slowfast networks for video recognition.
+\newblock {\em arXiv preprint arXiv:1812.03982}, 2019.
+\newblock \url{https://github.com/facebookresearch/SlowFast}.
+
+\bibitem{3_TALL_Temporal_Activity_Localization_via_Language_Query}
+Jiyang Gao, Chen Sun, Zhenheng Yang, and Ram Nevatia.
+\newblock Tall: Temporal activity localization via language query.
+\newblock In {\em arXiv preprint arXiv:1705.02101}, 2017.
+
+\bibitem{8_OMNIVORE_ASingle_Model_for_Many_Visual_Modalities}
+Rohit Girdhar, Mannat Singh, Nikhila Ravi, Laurens van~der Maaten, Armand
+  Joulin, and Ishan Misra.
+\newblock Omnivore: A single model for many visual modalities.
+\newblock {\em arXiv preprint arXiv:2305.06638}, 2023.
+\newblock \url{https://facebookresearch.github.io/omnivore}.
+
+\bibitem{1_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video}
+Kristen Grauman, Andrew Westbury, Eugene Byrne, et~al.
+\newblock Ego4d: Around the world in 3,000 hours of egocentric video.
+\newblock {\em arXiv preprint arXiv:2110.07058}, 2022.
+
+\bibitem{6_Egocentric_Video_Language_Pretraining}
+Kevin~Qinghong Lin, Alex~Jinpeng Wang, Mattia Soldan, Michael Wray, Rui Yan,
+  Eric~Zhongcong Xu, Difei Gao, Rongcheng Tu, Wenzhe Zhao, Weijie Kong,
+  Chengfei Cai, Hongfa Wang, Dima Damen, Bernard Ghanem, Wei Liu, and
+  Mike~Zheng Shou.
+\newblock Egocentric video-language pretraining.
+\newblock {\em NeurIPS}, 2022.
+
+\bibitem{14_Liu2023LLaVA_Large_Language_and_Vision_Assistant}
+Haotian Liu, Chunyuan Li, Qingyang Wu, et~al.
+\newblock Llava: Large language and vision assistant, 2023.
+\newblock Cited on p. 2.
+
+\bibitem{12_Liu2024LLaVANeXT_Tackling_Multi-image_Video_and_3D_in_Large_Multimodal_Models}
+Haotian Liu, Chunyuan Li, Qingyang Wu, et~al.
+\newblock Llava-next-interleave: Tackling multi-image, video, and 3d in large
+  multimodal models, 2024.
+\newblock Cited on pp. 2, 3, 4.
+
+\bibitem{11_Liu2024CogVLM2_Visual_Language_Models_for_Image_and_Video_Understanding}
+Zihan Liu, Jie Fu, Zihan Wang, et~al.
+\newblock Cogvlm2: Visual language models for image and video understanding,
+  2024.
+\newblock Cited on pp. 2, 3, 4.
+
+\bibitem{13_Wang2024InternVideo_InternVideo2.5_Empowering_Video_MLLMs_with_Long_and_Rich_Context_Modeling}
+Xiaoyi Wang, Yuxuan Wang, Jianwei Yang, et~al.
+\newblock Internvideo2.5: Empowering video mllms with long and rich context
+  modeling, 2024.
+\newblock Cited on pp. 2, 3, 4.
+
+\bibitem{4_Span_based_Localizing_Network_for_Natural_Language_Video_Localization}
+Hao Zhang, Aixin Sun, Wei Jing, and Joey~Tianyi Zhou.
+\newblock Span-based localizing network for natural language video
+  localization.
+\newblock In {\em Proceedings of the Thirty-Fourth AAAI Conference on
+  Artificial Intelligence (AAAI)}, 2020.
+
+\end{thebibliography}
